@@ -1,1 +1,2 @@
 This is a new text file. This is for the third challenge on Git.exe.
+My instructor for the class is Antonio Gage. 
